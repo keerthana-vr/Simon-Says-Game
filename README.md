@@ -1,0 +1,1 @@
+A browser-based implementation of the classic Simon Says memory game. The game challenges players to remember and repeat an increasingly complex sequence of colors, testing memory and concentration skills.
